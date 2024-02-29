@@ -1,0 +1,55 @@
+.cardshost{
+    width: 80%;
+    margin: 0px auto;
+}
+.username{
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+.card span{
+    margin-bottom: 5px;
+    display: inline-block;
+}
+.card
+{
+    width : 25%;
+    text-align: center;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+.card button{
+    background: white;
+    border: 0px;
+    margin-top: 2rem;
+    font-size: 13px;
+    margin-bottom: 1rem;
+    color: gray;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.card button:hover{
+    color: blue;
+}
+.card  img
+{
+    width : 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.card img:hover
+{
+    box-shadow: 1px 1px 10px red;  
+}
+
+.email
+{
+    margin: 0px;    
+} 
+
+.rating{
+    width: 30px!important;
+    height: 30px!important;
+    margin: 0px auto;
+    display: block;
+}
